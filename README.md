@@ -6,9 +6,9 @@
   <p>Here, you'll find a collection of projects, code samples, and resources that showcase my journey as a machine learning engineer.</p>
   <h2>🛠️ Popular Repositories</h2>
   <ol>
-    <li>DVC:  <a href="https://github.com/faazkhan123/major-project1">P1</a> </li>
-    <li>MLFlow: <a href="https://github.com/faazkhan123/major-project2">P2</a> </li>
-    <li>Flask: <a href="https://github.com/faazkhan123/major-project3">P3</a> </li>
+    <li>P1:  <a href="https://github.com/faazkhan123/major-project1">major-project1</a> </li>
+    <li>P2: <a href="https://github.com/faazkhan123/major-project2">major-project2</a> </li>
+    <li>P3: <a href="https://github.com/faazkhan123/major-project3">major-project3</a> </li>
   </ol>
   
   <h2>🛠️ Tools and Technologies</h2>
