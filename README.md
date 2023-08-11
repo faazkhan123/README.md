@@ -9,6 +9,8 @@
     <li>P1:  <a href="https://github.com/faazkhan123/major-project1">major-project1</a> </li>
     <li>P2: <a href="https://github.com/faazkhan123/major-project2">major-project2</a> </li>
     <li>P3: <a href="https://github.com/faazkhan123/major-project3">major-project3</a> </li>
+     <li>P4: <a href="https://github.com/faazkhan123/major-project4">major-project4</a> </li>
+     <li>P5: <a href="https://github.com/faazkhan123/major-project5">major-project5</a> </li>
   </ol>
   
   <h2>🛠️ Tools and Technologies</h2>
